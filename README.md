@@ -163,9 +163,11 @@ Superstore achieved strong revenue growth of 46.88% YoY, driven primarily by the
 
 ## 📷 Dashboard Preview
 
-| Page 1 | Page 2 | Page 3 |
-|--------|--------|--------|
-| ![Executive Dashboard](Dashboard%20Screenshots/Executive%20Dashboard.png) | ![Insights](Dashboard%20Screenshots/Insights%20%26%20Recommendations.png) | ![Product Analysis](Dashboard%20Screenshots/Product%20Analysis.png) |
+### Executive Dashboard
+![Executive Dashboard](https://github.com/Sriram14890/sales_dashboard/blob/main/dashboard.png)
+
+### Product Performance Analysis
+![Product Analysis](https://github.com/Sriram14890/sales_dashboard/blob/main/product_analysis.png)
 
 ---
 
@@ -179,7 +181,6 @@ Superstore-Sales-Dashboard/
 │
 ├── Dashboard Screenshots/
 │   ├── Executive Dashboard.png
-│   ├── Insights & Recommendations.png
 │   └── Product Analysis.png
 │
 ├── Superstore Dashboard.pbix
@@ -200,7 +201,7 @@ Superstore-Sales-Dashboard/
 **Sriram B**
 
 - GitHub: [Sriram14890](https://github.com/Sriram14890)
-- LinkedIn: *(Add your LinkedIn profile link)*
+- LinkedIn: [Sriram.B](https://www.linkedin.com/in/sriram-b-692874293/)
 
 ---
 
